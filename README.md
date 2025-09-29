@@ -51,3 +51,4 @@ Architecture: MVC, RESTful APIs
 Other Tools: Nodemon, bcrypt (for authentication), and Express-session
 
 This app is hosted at : https://major-project-qafb.onrender.com
+(Note: After redirecting to the project home page it will display 404 Page not found because of some glitch issue. But please click on the explore link on the webpage it will work fine.)
